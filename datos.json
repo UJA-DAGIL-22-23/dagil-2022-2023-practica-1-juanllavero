@@ -1,0 +1,12 @@
+{
+    "nombre": "Juan Llavero Company",
+    "imagen": "/foto.jpg",
+    "descripcion": "Alumno del grado de Informática de la Universidad de Jaén.",
+    "correo": "jlc00052@red.ujaen.es",
+    "web": "http://vrivas.es",
+    "gitHub": "https://github.com/juanllavero",
+    "trello": "https://trello.com/b/v3Wrtg20/primera-pr%C3%A1ctica",
+    "tableroInicio": "/tableroInicio.png",
+    "github": "/github.png",
+    "tableroFin": "/tableroFin.png"
+}
